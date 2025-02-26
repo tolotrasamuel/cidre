@@ -4,7 +4,7 @@
 //
 //  Created by Yury Korolev on 11/23/24.
 //
-
+#import <Foundation/Foundation.h> 
 #import <CoreAudio/CoreAudio.h>
 
 NS_ASSUME_NONNULL_BEGIN
